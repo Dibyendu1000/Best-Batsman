@@ -1,1 +1,1 @@
-This program can help one view the Best Batsman inside overs 16-20 who have played atleast 200 balls in IPL over the past years.
+This program can help one view the Top Players in IPL from 2008-2017
